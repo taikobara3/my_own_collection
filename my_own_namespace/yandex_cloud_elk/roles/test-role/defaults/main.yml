@@ -1,0 +1,4 @@
+---
+# defaults file for test-role
+file_path: "./testfile.txt"
+file_content: "Test module fron role"
